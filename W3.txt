@@ -1,0 +1,155 @@
+
+Listing des commandes de MONSIEUR ONTARIO         (N°  0000000003) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20230101      | APPLE IMAC 38 POUCES | 111            |      999.99   | 02       |      1999.98   |
+ | 20220101      |   SAMSUNG GALAXY S51 | 113            |      599.55   | 02       |      1199.10   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :    4998.18€
+Listing des commandes de MADAME   MICHELLE        (N°  0000000004) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20210630      |    MACBOOK AIR 256GO | 555            |      799.99   | 01       |       799.99   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :     799.99€
+Listing des commandes de MADAME   ROCHE           (N°  0000000005) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :   23999.70€
+Listing des commandes de MONSIEUR BERLIN          (N°  0000000007) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20220808      | TECHNICS SL1200MK GL | 450            |      695.99   | 15       |     10439.85   |
+ | 20220808      | PIONEER CDJ2000 MK2G | 450            |      695.99   | 15       |     10439.85   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      695.99   | 15       |     10439.85   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :   39319.45€
+Listing des commandes de MADAME   FRANCK          (N°  0000000008) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20220808      |  SAMSUNG FRAME 59PUG | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |   PHILIPS LED COLORS | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  XONE 92 ALLEN HEATH | 450            |      999.99   | 01       |       999.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ | 20220808      |  PIONEER DJMV10 NOIR | 450            |      899.99   | 01       |       899.99   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :   14499.84€
+Listing des commandes de MADAME   VINCENT         (N°  0000000009) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20220808      |  IPAD PRO 4TO GRIS S | 450            |      899.99   | 01       |       899.99   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :     899.99€
+Listing des commandes de MADAME   DUBOIS          (N°  0000000011) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20210630      |   PIONEER RX1000 MK2 | 117            |      899.55   | 02       |      1799.10   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :  575381.40€
+Listing des commandes de MADAME   FOURNIER        (N°  0000000013) sur 24 mois établie le 05/02/2024
+ | Date Commande |        Article       | Numéro article | Prix unitaire | Quantité |   Prix total   |
+ |               |                      |                |               |          |                |
+ | 20230808      | APPLE IPHONE 512G GL | 113            |      799.99   | 10       |      7999.90   |
+ |               |                      |                |               |          |                |
+                                      TOTAL DES COMMANDES DES 24 DERNIERS MOIS :    7999.90€

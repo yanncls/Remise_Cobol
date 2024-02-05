@@ -11,10 +11,10 @@
       *--------------------
        FILE-CONTROL.
       *--------------------
-       SELECT FIC-R1    ASSIGN TO 'C:/Users/y_cle/ENTREE/R1_VIDE.txt'
+       SELECT FIC-R1    ASSIGN TO 'C:/Users/y_cle/ENTREE/R1_CLI.txt'
                    ORGANIZATION IS LINE SEQUENTIAL
            FILE STATUS                IS FS-F-CLI.
-       SELECT FIC-R2    ASSIGN TO 'C:/Users/y_cle/ENTREE/R2_VIDE.txt'
+       SELECT FIC-R2    ASSIGN TO 'C:/Users/y_cle/ENTREE/R2_COM.txt'
                    ORGANIZATION IS LINE SEQUENTIAL
            FILE STATUS                 IS FS-F-COM.
        SELECT CARTE-P1    ASSIGN TO 'C:/Users/y_cle/ENTREE/P1.txt'
@@ -137,10 +137,10 @@
            05  WS-CIV          PIC X(8).
            05  WS-SPA          PIC X       VALUE SPACE.
            05  WS-NOM          PIC X(15).
-           05  WS-N            PIC X(6)    VALUE ' (N°'.
+           05  WS-N            PIC X(6)    VALUE ' (Nï¿½'.
            05  WS-NUMC         PIC X(10).
            05  WS-LAST         PIC X(25)   VALUE
-               ') sur 24 mois établie le '.
+               ') sur 24 mois ï¿½tablie le '.
            05  WS-DTJ          PIC X(10).
       *    Vide
        01  WS-VIDE             PIC X(87)   VALUE ALL SPACES.
@@ -151,11 +151,11 @@
            05  FILLER          PIC X(23)   VALUE
            '|        Article       '.
            05  FILLER          PIC X(17)   VALUE
-           '| Numéro article '.
+           '| Numï¿½ro article '.
            05  FILLER          PIC X(16)   VALUE
            '| Prix unitaire '.
            05  FILLER          PIC X(11)   VALUE
-           '| Quantité '.
+           '| Quantitï¿½ '.
            05  FILLER          PIC X(18)   VALUE
            '|   Prix total   |'.
       *    Tableau premiere ligne vide
@@ -193,7 +193,7 @@
            05  FILLER          PIC X(43)   VALUE
            'TOTAL DES COMMANDES DES 24 DERNIERS MOIS : '.
            05  WS-PANIERTOT    PIC Z(7).99.
-           05  FILLER          PIC X       VALUE '€'.
+           05  FILLER          PIC X       VALUE 'ï¿½'.
       *----------------------------------------------------------------*
       *                        W4 - REMISES   (ETAT remise par client) *
       *----------------------------------------------------------------*
@@ -213,39 +213,39 @@
       *    Ligne 3
        01  WS-LIGNE3.
            05  FILLER          PIC X(33)   VALUE
-           'Vous êtes clients depuis plus de '.
+           'Vous ï¿½tes clients depuis plus de '.
            05  WS-ANNEED       PIC 9.
            05  FILLER          PIC X(24)   VALUE
-           ' ans et à l''ocasion de '.
+           ' ans et ï¿½ l''ocasion de '.
            05  WS-LIBLED       PIC X(12).
            05  FILLER          PIC X(2)    VALUE ' :'.
       *    Ligne 3A
        01  WS-LIGNE3A.
            05  FILLER          PIC X(35)   VALUE
-           'Vous êtes clients depuis moins d''un'.
+           'Vous ï¿½tes clients depuis moins d''un'.
            05  FILLER          PIC X(24)   VALUE
-           ' an et à l''ocasion de '.
+           ' an et ï¿½ l''ocasion de '.
            05  WS-LIBLEDA      PIC X(12).
            05  FILLER          PIC X(2)    VALUE ' :'.
       *    Ligne 3B
        01  WS-LIGNE3B.
            05  FILLER          PIC X(33)   VALUE
-           'Vous êtes clients depuis plus de '.
+           'Vous ï¿½tes clients depuis plus de '.
            05  WS-ANNEEDB      PIC 9.
            05  FILLER          PIC X(24)   VALUE
-           ' an et à l''ocasion de '.
+           ' an et ï¿½ l''ocasion de '.
            05  WS-LIBLEDB      PIC X(12).
            05  FILLER          PIC X(2)    VALUE ' :'.
       *    Ligne 4
        01  WS-LIGNE4.
            05  FILLER          PIC X(19)   VALUE
-           'Vous bénéficiez de '.
+           'Vous bï¿½nï¿½ficiez de '.
            05  WS-REMED        PIC X(2).
            05  FILLER          PIC X(44)   VALUE
            '% sur tous les articles de notre catalogue !'.
       *    Ligne 5
        01  WS-LIGNE5           PIC X(23)   VALUE
-           'Merci de votre fidélité'.
+           'Merci de votre fidï¿½litï¿½'.
       *----------------------------------------------------------------*
       *                        FILE STATUS                             *
       *----------------------------------------------------------------*
@@ -461,7 +461,7 @@
               THRU OV-W3-FIN.
            PERFORM OV-W4-DEB
               THRU OV-W4-FIN.
-      *    Préparation date du jour
+      *    Prï¿½paration date du jour
            PERFORM DATEJ-IS-DEB
               THRU DATEJ-IS-FIN.
       *
@@ -514,7 +514,7 @@
       *PREPARATION DU TRAITEMENT (OREILLETTE GAUCHE)
       *---------------------------------------------------------------*
            DISPLAY '***********1000-DEB***********'
-      *    Préparation des données clients
+      *    Prï¿½paration des donnï¿½es clients
            PERFORM VAR-ASRTM-DEB
               THRU VAR-ASRTM-FIN.
       *
@@ -571,7 +571,7 @@
       *PREPARATION DU TRAITEMENT (OREILLETTE GAUCHE)
       *---------------------------------------------------------------*
            DISPLAY '***********2010-DEB***********'
-      *    Calcul ancienneté du client
+      *    Calcul anciennetï¿½ du client
            PERFORM DATE-CLI-DEB
               THRU DATE-CLI-FIN.
            IF YEARS-CLI >= 2
@@ -608,7 +608,7 @@
                PERFORM WRITE-W4-DEB
                   THRU WRITE-W4-FIN
       *SI
-      *    COMMANDE -24 MOIS & MT TOTAL +1000€
+      *    COMMANDE -24 MOIS & MT TOTAL +1000ï¿½
       *        REMISE FIDELITE
       *        ECRITURE W4 REMISE
            ELSE IF WS-CMD-24 = 'Y' AND WS-MILLE = 'Y' AND WS-FIDEL = 'Y'
@@ -629,7 +629,7 @@
                END-IF
            END-IF.
       *SINON
-      *    pas de remise si aucune condition respectée
+      *    pas de remise si aucune condition respectï¿½e
       *    lecture client suivant
            PERFORM READ-F-CLI-DEB
               THRU READ-F-CLI-FIN.
@@ -648,7 +648,7 @@
       *---------------------------------------------------------------*
       *BAS DU TRAITEMENT ANOMALIE 2
       *---------------------------------------------------------------*
-      *    écriture fichier FICERRO (commande sans compte client)
+      *    ï¿½criture fichier FICERRO (commande sans compte client)
            DISPLAY '***********2020-FIN***********'
            MOVE WS-ENRG-COM    TO WS-FICERROR.
            DISPLAY 'CMD SANS CLIENT ' WS-ENRG-COM
@@ -678,7 +678,7 @@
       *---------------------------------------------------------------*
            DISPLAY '***********PASSAGE 3000***********'
       *SI
-      *    commande passée date -24 mois et premiere commande
+      *    commande passï¿½e date -24 mois et premiere commande
            PERFORM DATE-CMD-DEB
               THRU DATE-CMD-FIN.
            IF YEARS-COM <= 2
@@ -686,14 +686,14 @@
                SET WS-CMD-24-OUI       TO TRUE
                DISPLAY 'DATE COMMANDE SUR 24M : ' YEARS-COM.
       *SI
-      *    commande passée date -24 mois et commande suivante
+      *    commande passï¿½e date -24 mois et commande suivante
            IF WS-ISFIRST-NON AND YEARS-COM < 2
                PERFORM SUM-TOTAL-DEB
                   THRU SUM-TOTAL-FIN
                PERFORM WRITE-CMD-RECAP-DEB
                   THRU WRITE-CMD-RECAP-FIN
       *SINON
-      *    commande passée date -24 mois et premiere commande
+      *    commande passï¿½e date -24 mois et premiere commande
            ELSE IF WS-ISFIRST-OUI AND YEARS-COM < 2
                PERFORM INIT-INFO-CLI-DEB
                   THRU INIT-INFO-CLI-FIN
