@@ -14,7 +14,7 @@
 - une remise fidélité
 - une remise fête
 
-### Le programme doit sortir différents états après la bonne exécution de celui ci :
+### Le programme doit sortir différents états après la bonne exécution de ce dernier :
 - les clients ayants passés des commandes (W1)
 - les commandes en anomalies (W2)
 - le listing des commandes par clients (W3)
