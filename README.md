@@ -1,13 +1,13 @@
-# Ce programme cobol a pour but de prendre en entrée deux fichiers :
+## Ce programme cobol a pour but de prendre en entrée deux fichiers :
 - un fichier client
 - un fichier commande
 
-# Le but est de determiner les clients fidèles selon les conditions définies ayant le droit à une remise selon le cas de figure annoncé
+## Le but est de determiner les clients fidèles selon les conditions définies ayant le droit à une remise selon le cas de figure annoncé
 - une remise anniversaire
 - une remise fidélité
 - une remise fête
 
-# Le programme doit sortir différents états après la bonne exécution de celui ci :
+## Le programme doit sortir différents états après la bonne exécution de celui ci :
 - les clients ayants passés des commandes
 - les commandes en anomalies
 - le listing des commandes par clients
