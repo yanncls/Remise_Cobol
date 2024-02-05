@@ -1,4 +1,5 @@
-## Ce programme cobol a pour but de faire un appareillage entre deux fichiers pour que la société puisse accorder une remise à ses clients les plus fidèles
+# Ce programme cobol a pour but de faire un appareillage entre deux fichiers pour que la société puisse accorder une remise à ses clients les plus fidèles
+
 ### Il prend en entrée deux fichiers :
 - un fichier client
 - un fichier commande
