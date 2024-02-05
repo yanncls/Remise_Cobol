@@ -1,3 +1,4 @@
+# Remise aux clients fidèles #
 # Ce programme cobol a pour but de faire un appareillage entre deux fichiers pour que la société puisse accorder une remise à ses clients les plus fidèles
 
 ### Deux fichiers en entrée :
